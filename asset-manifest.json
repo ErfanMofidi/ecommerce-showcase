@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/ecommerce-showcase/static/css/main.463a1b1e.css",
-    "main.js": "/ecommerce-showcase/static/js/main.ed5b6dc6.js",
+    "main.css": "/ecommerce-showcase/static/css/main.9e2a4d79.css",
+    "main.js": "/ecommerce-showcase/static/js/main.10ef5049.js",
+    "static/media/20251020_1207_Cinematic T-Shirt Display_simple_compose_01k80c7phjf4jtz1tyd6jgt268.png": "/ecommerce-showcase/static/media/20251020_1207_Cinematic T-Shirt Display_simple_compose_01k80c7phjf4jtz1tyd6jgt268.183514d87e3e9ef46f40.png",
     "static/media/Women's Fashion Collection_simple_compose_01k3qxsmqpe49s10xww1cresyt.png": "/ecommerce-showcase/static/media/Women's Fashion Collection_simple_compose_01k3qxsmqpe49s10xww1cresyt.144f6aa7cc8809ba5240.png",
+    "static/media/20251020_1215_Elegant Jewelry Showcase_simple_compose_01k80cnmxzfx7bh99v8jx0qs63.png": "/ecommerce-showcase/static/media/20251020_1215_Elegant Jewelry Showcase_simple_compose_01k80cnmxzfx7bh99v8jx0qs63.4715d08c3925e2806563.png",
+    "static/media/20251020_1213_Elegant Dress Showcase_simple_compose_01k80chpdde6ybvf7nvefc6q2m.png": "/ecommerce-showcase/static/media/20251020_1213_Elegant Dress Showcase_simple_compose_01k80chpdde6ybvf7nvefc6q2m.621d21b32b41062a0053.png",
     "static/media/Men's Fashion Landing_simple_compose_01k3nqnhche6jb5e5kkd801126.png": "/ecommerce-showcase/static/media/Men's Fashion Landing_simple_compose_01k3nqnhche6jb5e5kkd801126.f169181e1fc08c878e7d.png",
     "static/media/Women's Apparel_simple_compose_01k3qv9nb0f3asrpan4tfn3a7x.png": "/ecommerce-showcase/static/media/Women's Apparel_simple_compose_01k3qv9nb0f3asrpan4tfn3a7x.efdbea48cc80fba91a67.png",
     "static/media/Men's Clothing Display_simple_compose_01k3p0ay4yfd3bkb81q5dd0xpr.png": "/ecommerce-showcase/static/media/Men's Clothing Display_simple_compose_01k3p0ay4yfd3bkb81q5dd0xpr.22f27cec7290ed910037.png",
     "static/media/Transparent Electronic Devices_remix_01k3rj9p5wf97td60h4sm20bvw.png": "/ecommerce-showcase/static/media/Transparent Electronic Devices_remix_01k3rj9p5wf97td60h4sm20bvw.0220a9a0afc2525da941.png",
+    "static/media/pc.webp": "/ecommerce-showcase/static/media/pc.2246394f45d4d44a7d18.webp",
     "static/media/ad.gif": "/ecommerce-showcase/static/media/ad.8aba141c0f6d1488b0c7.gif",
     "static/media/Professional Attire_remix_01k3rhzqr9emjbrg7pgbqm7cf3.png": "/ecommerce-showcase/static/media/Professional Attire_remix_01k3rhzqr9emjbrg7pgbqm7cf3.8d8e66876b32c6b5b624.png",
     "index.html": "/ecommerce-showcase/index.html",
-    "main.463a1b1e.css.map": "/ecommerce-showcase/static/css/main.463a1b1e.css.map",
-    "main.ed5b6dc6.js.map": "/ecommerce-showcase/static/js/main.ed5b6dc6.js.map"
+    "main.9e2a4d79.css.map": "/ecommerce-showcase/static/css/main.9e2a4d79.css.map",
+    "main.10ef5049.js.map": "/ecommerce-showcase/static/js/main.10ef5049.js.map"
   },
   "entrypoints": [
-    "static/css/main.463a1b1e.css",
-    "static/js/main.ed5b6dc6.js"
+    "static/css/main.9e2a4d79.css",
+    "static/js/main.10ef5049.js"
   ]
 }
