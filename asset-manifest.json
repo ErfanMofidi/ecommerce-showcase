@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ecommerce-showcase/static/css/main.7ce36816.css",
-    "main.js": "/ecommerce-showcase/static/js/main.b44861f1.js",
-    "static/media/Women's Fashion Collection_simple_compose_01k3qxsmqpe49s10xww1cresyt.png": "/ecommerce-showcase/static/media/Women's Fashion Collection_simple_compose_01k3qxsmqpe49s10xww1cresyt.144f6aa7cc8809ba5240.png",
-    "static/media/Men's Fashion Landing_simple_compose_01k3nqnhche6jb5e5kkd801126.png": "/ecommerce-showcase/static/media/Men's Fashion Landing_simple_compose_01k3nqnhche6jb5e5kkd801126.f169181e1fc08c878e7d.png",
-    "static/media/Women's Apparel_simple_compose_01k3qv9nb0f3asrpan4tfn3a7x.png": "/ecommerce-showcase/static/media/Women's Apparel_simple_compose_01k3qv9nb0f3asrpan4tfn3a7x.efdbea48cc80fba91a67.png",
-    "static/media/Men's Clothing Display_simple_compose_01k3p0ay4yfd3bkb81q5dd0xpr.png": "/ecommerce-showcase/static/media/Men's Clothing Display_simple_compose_01k3p0ay4yfd3bkb81q5dd0xpr.22f27cec7290ed910037.png",
-    "static/media/Transparent Electronic Devices_remix_01k3rj9p5wf97td60h4sm20bvw.png": "/ecommerce-showcase/static/media/Transparent Electronic Devices_remix_01k3rj9p5wf97td60h4sm20bvw.0220a9a0afc2525da941.png",
-    "static/media/ad.gif": "/ecommerce-showcase/static/media/ad.8aba141c0f6d1488b0c7.gif",
-    "static/media/Professional Attire_remix_01k3rhzqr9emjbrg7pgbqm7cf3.png": "/ecommerce-showcase/static/media/Professional Attire_remix_01k3rhzqr9emjbrg7pgbqm7cf3.8d8e66876b32c6b5b624.png",
-    "index.html": "/ecommerce-showcase/index.html",
-    "main.7ce36816.css.map": "/ecommerce-showcase/static/css/main.7ce36816.css.map",
-    "main.b44861f1.js.map": "/ecommerce-showcase/static/js/main.b44861f1.js.map"
+    "main.css": "/static/css/main.7ce36816.css",
+    "main.js": "/static/js/main.d40d39cd.js",
+    "static/media/Women's Fashion Collection_simple_compose_01k3qxsmqpe49s10xww1cresyt.png": "/static/media/Women's Fashion Collection_simple_compose_01k3qxsmqpe49s10xww1cresyt.144f6aa7cc8809ba5240.png",
+    "static/media/Men's Fashion Landing_simple_compose_01k3nqnhche6jb5e5kkd801126.png": "/static/media/Men's Fashion Landing_simple_compose_01k3nqnhche6jb5e5kkd801126.f169181e1fc08c878e7d.png",
+    "static/media/Women's Apparel_simple_compose_01k3qv9nb0f3asrpan4tfn3a7x.png": "/static/media/Women's Apparel_simple_compose_01k3qv9nb0f3asrpan4tfn3a7x.efdbea48cc80fba91a67.png",
+    "static/media/Men's Clothing Display_simple_compose_01k3p0ay4yfd3bkb81q5dd0xpr.png": "/static/media/Men's Clothing Display_simple_compose_01k3p0ay4yfd3bkb81q5dd0xpr.22f27cec7290ed910037.png",
+    "static/media/Transparent Electronic Devices_remix_01k3rj9p5wf97td60h4sm20bvw.png": "/static/media/Transparent Electronic Devices_remix_01k3rj9p5wf97td60h4sm20bvw.0220a9a0afc2525da941.png",
+    "static/media/ad.gif": "/static/media/ad.8aba141c0f6d1488b0c7.gif",
+    "static/media/Professional Attire_remix_01k3rhzqr9emjbrg7pgbqm7cf3.png": "/static/media/Professional Attire_remix_01k3rhzqr9emjbrg7pgbqm7cf3.8d8e66876b32c6b5b624.png",
+    "index.html": "/index.html",
+    "main.7ce36816.css.map": "/static/css/main.7ce36816.css.map",
+    "main.d40d39cd.js.map": "/static/js/main.d40d39cd.js.map"
   },
   "entrypoints": [
     "static/css/main.7ce36816.css",
-    "static/js/main.b44861f1.js"
+    "static/js/main.d40d39cd.js"
   ]
 }
