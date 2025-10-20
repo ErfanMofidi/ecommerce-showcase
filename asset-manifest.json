@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ecommerce-showcase/static/css/main.7ce36816.css",
+    "main.css": "/ecommerce-showcase/static/css/main.463a1b1e.css",
     "main.js": "/ecommerce-showcase/static/js/main.ce45041f.js",
     "static/media/Women's Fashion Collection_simple_compose_01k3qxsmqpe49s10xww1cresyt.png": "/ecommerce-showcase/static/media/Women's Fashion Collection_simple_compose_01k3qxsmqpe49s10xww1cresyt.144f6aa7cc8809ba5240.png",
     "static/media/Men's Fashion Landing_simple_compose_01k3nqnhche6jb5e5kkd801126.png": "/ecommerce-showcase/static/media/Men's Fashion Landing_simple_compose_01k3nqnhche6jb5e5kkd801126.f169181e1fc08c878e7d.png",
@@ -10,11 +10,11 @@
     "static/media/ad.gif": "/ecommerce-showcase/static/media/ad.8aba141c0f6d1488b0c7.gif",
     "static/media/Professional Attire_remix_01k3rhzqr9emjbrg7pgbqm7cf3.png": "/ecommerce-showcase/static/media/Professional Attire_remix_01k3rhzqr9emjbrg7pgbqm7cf3.8d8e66876b32c6b5b624.png",
     "index.html": "/ecommerce-showcase/index.html",
-    "main.7ce36816.css.map": "/ecommerce-showcase/static/css/main.7ce36816.css.map",
+    "main.463a1b1e.css.map": "/ecommerce-showcase/static/css/main.463a1b1e.css.map",
     "main.ce45041f.js.map": "/ecommerce-showcase/static/js/main.ce45041f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ce36816.css",
+    "static/css/main.463a1b1e.css",
     "static/js/main.ce45041f.js"
   ]
 }
