@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ecommerce-showcase/static/css/main.d59d8010.css",
-    "main.js": "/ecommerce-showcase/static/js/main.cc82a57a.js",
+    "main.css": "/ecommerce-showcase/static/css/main.7a231f6d.css",
+    "main.js": "/ecommerce-showcase/static/js/main.6029238a.js",
     "static/media/20251020_1207_Cinematic T-Shirt Display_simple_compose_01k80c7phjf4jtz1tyd6jgt268.png": "/ecommerce-showcase/static/media/20251020_1207_Cinematic T-Shirt Display_simple_compose_01k80c7phjf4jtz1tyd6jgt268.183514d87e3e9ef46f40.png",
     "static/media/Women's Fashion Collection_simple_compose_01k3qxsmqpe49s10xww1cresyt.png": "/ecommerce-showcase/static/media/Women's Fashion Collection_simple_compose_01k3qxsmqpe49s10xww1cresyt.144f6aa7cc8809ba5240.png",
     "static/media/20251020_1215_Elegant Jewelry Showcase_simple_compose_01k80cnmxzfx7bh99v8jx0qs63.png": "/ecommerce-showcase/static/media/20251020_1215_Elegant Jewelry Showcase_simple_compose_01k80cnmxzfx7bh99v8jx0qs63.4715d08c3925e2806563.png",
@@ -16,11 +16,11 @@
     "static/media/ad.gif": "/ecommerce-showcase/static/media/ad.8aba141c0f6d1488b0c7.gif",
     "static/media/Professional Attire_remix_01k3rhzqr9emjbrg7pgbqm7cf3.png": "/ecommerce-showcase/static/media/Professional Attire_remix_01k3rhzqr9emjbrg7pgbqm7cf3.8d8e66876b32c6b5b624.png",
     "index.html": "/ecommerce-showcase/index.html",
-    "main.d59d8010.css.map": "/ecommerce-showcase/static/css/main.d59d8010.css.map",
-    "main.cc82a57a.js.map": "/ecommerce-showcase/static/js/main.cc82a57a.js.map"
+    "main.7a231f6d.css.map": "/ecommerce-showcase/static/css/main.7a231f6d.css.map",
+    "main.6029238a.js.map": "/ecommerce-showcase/static/js/main.6029238a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d59d8010.css",
-    "static/js/main.cc82a57a.js"
+    "static/css/main.7a231f6d.css",
+    "static/js/main.6029238a.js"
   ]
 }
