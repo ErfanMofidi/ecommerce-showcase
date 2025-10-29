@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ecommerce-showcase/static/css/main.7a231f6d.css",
+    "main.css": "/ecommerce-showcase/static/css/main.6f462e51.css",
     "main.js": "/ecommerce-showcase/static/js/main.556281cc.js",
     "static/media/20251020_1207_Cinematic T-Shirt Display_simple_compose_01k80c7phjf4jtz1tyd6jgt268.png": "/ecommerce-showcase/static/media/20251020_1207_Cinematic T-Shirt Display_simple_compose_01k80c7phjf4jtz1tyd6jgt268.183514d87e3e9ef46f40.png",
     "static/media/Women's Fashion Collection_simple_compose_01k3qxsmqpe49s10xww1cresyt.png": "/ecommerce-showcase/static/media/Women's Fashion Collection_simple_compose_01k3qxsmqpe49s10xww1cresyt.144f6aa7cc8809ba5240.png",
@@ -16,11 +16,11 @@
     "static/media/ad.gif": "/ecommerce-showcase/static/media/ad.8aba141c0f6d1488b0c7.gif",
     "static/media/Professional Attire_remix_01k3rhzqr9emjbrg7pgbqm7cf3.png": "/ecommerce-showcase/static/media/Professional Attire_remix_01k3rhzqr9emjbrg7pgbqm7cf3.8d8e66876b32c6b5b624.png",
     "index.html": "/ecommerce-showcase/index.html",
-    "main.7a231f6d.css.map": "/ecommerce-showcase/static/css/main.7a231f6d.css.map",
+    "main.6f462e51.css.map": "/ecommerce-showcase/static/css/main.6f462e51.css.map",
     "main.556281cc.js.map": "/ecommerce-showcase/static/js/main.556281cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a231f6d.css",
+    "static/css/main.6f462e51.css",
     "static/js/main.556281cc.js"
   ]
 }
